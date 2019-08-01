@@ -1,1 +1,4 @@
-this is file1
+HEAD
+old line
+new line is added
+sample
